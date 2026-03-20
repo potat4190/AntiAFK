@@ -33,10 +33,12 @@ In-game chat command:
 
 ```text
 /antiafk true
-  - Enables AntiAFK movement simulation.
-/antiafk false
-  - Disables AntiAFK and releases keys.
 ```
+  - Enables AntiAFK movement simulation.
+```text
+/antiafk false
+```
+  - Disables AntiAFK and releases keys.
 
 How it works:
 When enabled, the client periodically chooses random movement key states (W/A/S/D combinations) for short durations, with occasional pauses and jumps to vary behavior.
