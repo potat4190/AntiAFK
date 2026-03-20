@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "antiafk",
+  "version": "1.0",
+  "name": "AntiAFK",
+  "description": "A mod that prevents you from being kicked for being AFK.",
+  "authors": ["potat"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/antiafk/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.Potat.antiafk.client.AntiafkClient"
+    ],
+    "main": [
+      "me.Potat.antiafk.Antiafk"
+    ]
+  },
+  "mixins": [
+    "antiafk.mixins.json",
+    {
+      "config": "antiafk.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric": "*",
+    "minecraft": "1.21.11"
+  }
+}

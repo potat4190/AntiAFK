@@ -1,0 +1,27 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\classes\\java\\test",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\resources\\test",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\production\\AntiAFK.test",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\test\\classes",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\test\\resources"
+    ],
+    "client": [
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\classes\\java\\client",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\resources\\client",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\production\\AntiAFK.client",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\client\\classes",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\client\\resources"
+    ],
+    "main": [
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\classes\\java\\main",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\resources\\main",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\build\\devlibs\\AntiAFK-1.0-dev.jar",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\production\\AntiAFK.main",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\production\\classes",
+      "C:\\Users\\rhida\\IdeaProjects\\AntiAFK\\out\\production\\resources"
+    ]
+  }
+}
